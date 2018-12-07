@@ -1,4 +1,4 @@
-# Repo: EPEL
+# Repo: REMI
 
 Manage REMI  repository.
 
