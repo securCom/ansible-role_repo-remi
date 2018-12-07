@@ -1,0 +1,6 @@
+---
+
+- name: install remi repository
+  package:
+    name: "{{ remi_repo_package }}"
+    state: "{{ remi_repo_package_state }}"
