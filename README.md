@@ -1,3 +1,6 @@
+[![Build Status](https://www.travis-ci.org/securCom/ansible-role_repo-remi.svg?branch=master)](https://www.travis-ci.org/securCom/ansible-role_repo-remi)
+[![GitHub release](https://img.shields.io/github/release/securCom/ansible-role_repo-remi.svg)](https://github.com/securCom/ansible-role_repo-remi)
+
 # Repo: REMI
 
 Manage REMI  repository.
