@@ -4,7 +4,7 @@ Manage REMI  repository.
 
 # Requirements
 
-Forr supported systems  see https://rpms.remirepo.net/. If your system is not supported,
+For supported systems  see https://rpms.remirepo.net/. If your system is not supported,
 the role tasks will be skipped.
 
 For supported system by this role, see the `vars/os-<system>` files.
