@@ -1,0 +1,4 @@
+---
+
+remi_repo_supported: true
+remi_repo_package: https://rpms.remirepo.net/enterprise/remi-release-8.rpm
